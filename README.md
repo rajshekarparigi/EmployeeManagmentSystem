@@ -1,3 +1,23 @@
+# Employee Management System
+
+A simple Employee Management System built using **Node.js**, **Express**, and **SQLite**.  
+This application allows you to manage employee records with basic CRUD operations.
+
+---
+
+## Features
+
+- Add new employees
+- View employee list
+- Update employee details
+- Delete employee records
+- Lightweight SQLite database
+- RESTful API structure
+
+---
+
+## Project Structure
+
 
 ---
 
